@@ -1,0 +1,19 @@
+{
+  "name": "chai-our-backend",
+  "version": "1.0.0",
+  "description": "This app is for  deployment ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Junior_veer",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
